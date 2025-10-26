@@ -157,7 +157,7 @@ Due to **CELL UPDATION / ADDRESS SHORT** reason, I/we would like to update my / 
 
 ## 🖼️ Scanned Form Image
 
-![Scanned KYC Form](cif-kyc-form-scanned.jpg)
+![Scanned KYC Form](KYC_form.jpg)
 
 > *Note: This is a digital representation of the original scanned document.*
 
